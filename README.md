@@ -45,3 +45,11 @@ If you do not know how to use the Queue API, please refer to the official Larave
 
 You can contribute to this package by discovering bugs and opening issues. Please, add to which version of package you
 create pull request or issue. (e.g. [5.2] Fatal error on delayed job)
+
+## Credits
+
+- [All Contributors](../../contributors)
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
